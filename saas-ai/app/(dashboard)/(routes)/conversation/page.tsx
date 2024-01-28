@@ -51,6 +51,7 @@ const ConversationPage = () => {
         proModal.onOpen();
       } else {
         toast.error("Something went wrong.");
+        console.log(error)
       }
     } finally {
       router.refresh();
