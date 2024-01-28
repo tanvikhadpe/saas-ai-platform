@@ -3,11 +3,6 @@
 <p></p>
 <p align="center" id="description">This is a repository for Build a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe</p>
 
-<!-- <h2>Project Screenshots:</h2>
-<p></p> -->
-<!-- <img src="https://utfs.io/f/22e579d8-c7ba-4910-95c5-4c0e94ff207c-q3qjid.jpg" alt="project-screenshot" width="100%" height="100%/"> -->
-
-<p></p>
   
 <h2>🧐 Features</h2>
 
@@ -16,7 +11,7 @@ Here're some of the project's best features:
 *   Tailwind design
 *   Tailwind animations and effects
 *   Full responsiveness
-*   Clerk Authentication (Email, Google)
+*   Clerk Authentication (Email, Google, 9+ Social Logins)
 *   Client form validation and handling using react-hook-form
 *   Server error handling using react-toast
 *   Image Generation Tool (Open AI)
@@ -31,13 +26,45 @@ Here're some of the project's best features:
 *   How to handle relations between Server and Child components!
 *   How to reuse layouts
 *   Folder structure in Next 13 App Router
+
+
+<h2>Project Screenshots:</h2>
+<p>Dashboard:</p> 
+ <img src="https://drive.google.com/file/d/1bw2rk7bEHNncSUkhrbiEM2bcSRTRe-zq/view?usp=drive_link" alt="project-screenshot" width="30%" height="30%/">
+<p></p>
+
+<p>Landing Page:</p> 
+ <img src="https://drive.google.com/file/d/1PWEOiFq0_tpBM663pmv3rue3SNDRmZmb/view?usp=drive_link" alt="project-screenshot" width="30%" height="30%/">
+<p></p>
+
+<p>Conversations Page:</p> 
+ <img src="https://drive.google.com/file/d/158D9AVLpX0mTyWRbb3JZynXAtvXcZuu1/view?usp=drive_link" alt="project-screenshot" width="30%" height="30%/">
+<p></p>
+<p>Image Generation Page:</p> 
+ <img src="https://drive.google.com/file/d/1D2lTP00Ir0891eQryHM9LhBZWXfgtdU_/view?usp=drive_link" alt="project-screenshot" width="30%" height="30%/">
+<p></p>
+<p>Video Generation Page:</p> 
+ <img src="https://drive.google.com/file/d/1vsox-YRAAFkL3v2u9IvKomc4XziUsEUB/view?usp=drive_link" alt="project-screenshot" width="30%" height="30%/">
+<p></p>
+<p>Music Generation Page:</p> 
+ <img src="https://drive.google.com/file/d/1B3QaASv9dJTEgtWVdMg-PCK7dWwsZ6k5/view?usp=drive_link" alt="project-screenshot" width="30%" height="30%/">
+<p></p>
+<p>Code Generation Page:</p> 
+ <img src="https://drive.google.com/file/d/1muelcnifkbfQ16EPyHvrw4G_Xy7xVpUM/view?usp=drive_link" alt="project-screenshot" width="30%" height="30%/">
+<p></p>
+
+<p>Pro Plan Page:</p> 
+ <img src="https://drive.google.com/file/d/1Sj7Sm3EtnzR_p5ZzEEqOHLKdkAM3OXzI/view?usp=drive_link" alt="project-screenshot" width="30%" height="30%/">
+<p></p>
+
+
 <p></p>
 <h2>🛠️ Installation Steps:</h2>
 <p></p>
 <p>1. Cloning the repository</p>
 
 ```
-git clone https://github.com/tanvikhadpe/SaaS-AI-Platform.git
+git clone https://github.com/tanvikhadpe/Saas-AI-Platform.git
 ```
 <p></p>
 <p>2. Install packages</p>
@@ -91,6 +118,12 @@ Technologies used in the project:
 *   Tailwind
 *   OpenAI
 *   Replicate AI
+
+
+
+Features:
+
+
 
 ### Prerequisites
 
