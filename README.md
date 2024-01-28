@@ -92,12 +92,6 @@ Technologies used in the project:
 *   OpenAI
 *   Replicate AI
 
-
-
-Features:
-
-
-
 ### Prerequisites
 
 **Node version 18.x.x**
