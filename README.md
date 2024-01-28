@@ -16,7 +16,7 @@ Here're some of the project's best features:
 *   Tailwind design
 *   Tailwind animations and effects
 *   Full responsiveness
-*   Clerk Authentication (Email, Google, 9+ Social Logins)
+*   Clerk Authentication (Email, Google)
 *   Client form validation and handling using react-hook-form
 *   Server error handling using react-toast
 *   Image Generation Tool (Open AI)
