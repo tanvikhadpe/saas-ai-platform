@@ -10,6 +10,7 @@
  <video width="100%" height="100%" controls autoplay>
   <source src="https://utfs.io/f/62077af4-6cc2-486c-bff7-e2c101eb8de6-ytxfvq.mp4" type="video/mp4"/>
 </video>
+ <img src="https://utfs.io/f/fa1172bb-fede-4015-bd4f-21765566b85e-dezpsj.png" width="100%" height="100%/">
 <p></p>
 
 <table>
