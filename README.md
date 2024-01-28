@@ -37,7 +37,7 @@ Here're some of the project's best features:
 <p>1. Cloning the repository</p>
 
 ```
-git clone https://github.com/tanvikhadpe/Saas-AI-Platform.git
+git clone https://github.com/tanvikhadpe/SaaS-AI-Platform.git
 ```
 <p></p>
 <p>2. Install packages</p>
