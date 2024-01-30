@@ -87,7 +87,7 @@ Here're some of the project's best features:
 <p>1. Cloning the repository</p>
 
 ```
-git clone https://github.com/tanvikhadpe/Saas-AI-Platform.git
+git clone https://github.com/tanvikhadpe/saas-ai-platform.git
 ```
 
 <p></p>
@@ -147,8 +147,3 @@ Technologies used in the project:
 - OpenAI
 - Replicate AI
 
-Features:
-
-### Prerequisites
-
-**Node version 18.x.x**
